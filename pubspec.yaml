@@ -1,0 +1,22 @@
+name: gd6_b_1934
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.7+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  sqflite: ^2.2.6
+  flutter_slidable: ^3.1.1
+
+flutter:
+  uses-material-design: true
